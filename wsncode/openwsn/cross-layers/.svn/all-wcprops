@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/cross-layers
+END
+packetfunctions.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/cross-layers/packetfunctions.c
+END
+openserial.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/cross-layers/openserial.c
+END
+packetfunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/cross-layers/packetfunctions.h
+END
+openqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/cross-layers/openqueue.c
+END
+openserial.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/cross-layers/openserial.h
+END
+idmanager.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/cross-layers/idmanager.c
+END
+openqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/cross-layers/openqueue.h
+END
+idmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/cross-layers/idmanager.h
+END

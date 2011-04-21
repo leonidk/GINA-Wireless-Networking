@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3183547508</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\drivers\gina.c</file>
+      <file>$PROJ_DIR$\drivers\gyro.c</file>
+      <file>$PROJ_DIR$\drivers\sensitive_accel_temperature.h</file>
+      <file>$PROJ_DIR$\commands\commands.c</file>
+      <file>$PROJ_DIR$\drivers\i2c.c</file>
+      <file>$PROJ_DIR$\drivers\large_range_accel.c</file>
+      <file>$PROJ_DIR$\drivers\magnetometer.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\drivers\pwm.c</file>
+      <file>$PROJ_DIR$\drivers\usb.c</file>
+      <file>$PROJ_DIR$\drivers\sensitive_accel_temperature.c</file>
+      <file>$PROJ_DIR$\drivers\radio.c</file>
+      <file>$PROJ_DIR$\drivers\util.c</file>
+      <file>$PROJ_DIR$\drivers\radio.h</file>
+      <file>$PROJ_DIR$\drivers\large_range_accel.h</file>
+      <file>$PROJ_DIR$\drivers\pwm.h</file>
+      <file>$PROJ_DIR$\drivers\gina.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\magnetometer.r43</file>
+      <file>$PROJ_DIR$\drivers\atmel.h</file>
+      <file>$PROJ_DIR$\commands\commands.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F2618.xcl</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xsfn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\inc\msp430x26x.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\gina.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2c.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\large_range_accel.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\commands.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\gyro.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\pwm.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\radio.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\sensitive_accel_temperature.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usb.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\util.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\commands.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\gina.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\gyro.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2c.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\magnetometer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\large_range_accel.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\pwm.pbi</file>
+      <file>$PROJ_DIR$\drivers\i2c.h</file>
+      <file>$PROJ_DIR$\drivers\bool.h</file>
+      <file>$PROJ_DIR$\drivers\gyro.h</file>
+      <file>$PROJ_DIR$\drivers\magnetometer.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sensitive_accel_temperature.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usb.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\radio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\gina2.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\gina2.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\util.pbi</file>
+      <file>$PROJ_DIR$\drivers\util.h</file>
+      <file>$PROJ_DIR$\drivers\gina_config.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xsfn.r43</file>
+      <file>$PROJ_DIR$\drivers\usb.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\gina.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 63 62 13 18 15 65 51 52 53 54 14 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\gyro.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53 51 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\commands\commands.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 36 32 37 33 35 17 38 39 40 41 42 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 63 62 13 18 15 65 51 52 53 54 14 2 19</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 16 29 28 27 63 62 13 18 15 65 51 30 26 25 24 23 55 22 31 52 53 54 14 2 19 0 1 4 5 6 8 11 10 9 12 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\large_range_accel.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 51 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\magnetometer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 51 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 63 62 13 18 15 65 51 52 53 54 14 2 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\pwm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 62</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\usb.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\sensitive_accel_temperature.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\radio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63 13 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\util.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\gina2.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 20 21 36 32 37 33 35 17 34 38 39 40 41 42 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\gina2.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 43 44 45 46 49 47 48 50 58 56 57 61</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+

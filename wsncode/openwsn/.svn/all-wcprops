@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn
+END
+openwsn.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/openwsn.h
+END
+IEEE802154.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/IEEE802154.h
+END
+openwsn.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/warpwing/!svn/ver/576/gina2.2c/firmware/wsncode/openwsn/openwsn.c
+END
